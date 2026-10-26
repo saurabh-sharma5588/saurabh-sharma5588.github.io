@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.saurabh_sharma5588.twa",
+        "sha256_cert_fingerprints": ["BF:8B:FA:71:35:25:72:20:54:5B:9E:F8:5D:70:D6:CE:9C:E1:B8:4A:73:67:62:3E:04:25:D0:D6:E4:DB:A5:DD"]
+      }
+    }]
